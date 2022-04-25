@@ -6,7 +6,7 @@ namespace Purse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BusinessCard.BusinessCard card = new BusinessCard.BusinessCard(); 
         }
     }
 }
