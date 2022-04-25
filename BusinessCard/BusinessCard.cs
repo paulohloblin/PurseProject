@@ -7,6 +7,7 @@ namespace BusinessCard
         public BusinessCard()
         {
             Console.WriteLine("That is BusinessCard instance");
+
         }
     }
 }
