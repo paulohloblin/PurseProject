@@ -7,6 +7,7 @@ namespace Purse
         static void Main(string[] args)
         {
             CreditCard.CreditCard cd = new CreditCard.CreditCard();       
+
         }
     }
 }
