@@ -6,6 +6,8 @@ namespace Purse
     {
         static void Main(string[] args)
         {
+            Money.Money m = new Money.Money();
+
             BusinessCard.BusinessCard card = new BusinessCard.BusinessCard(); 
 
         }
