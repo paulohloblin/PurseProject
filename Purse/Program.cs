@@ -6,7 +6,7 @@ namespace Purse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Money.Money m = new Money.Money();
         }
     }
 }
